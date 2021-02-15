@@ -18,39 +18,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://dev-aws.amartha.id/login')
+WebUI.navigateToUrl('https://www.ebay.com/')
 
-WebUI.setText(findTestObject('Object Repository/input_RESET_email'), 'selena@gmail.com')
+WebUI.setText(findTestObject('Object Repository/input_Enter your search keyword__nkw'), 'iphone 11')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/input_RESET_password'), '3OCunMiHqemD5oZEZdOMLg==')
+WebUI.click(findTestObject('Object Repository/input_Enter your search keyword_gh-btn'))
 
-WebUI.click(findTestObject('Object Repository/button_LOGIN'))
+WebUI.click(findTestObject('Object Repository/span_Cell Phone Accessories'))
 
-WebUI.click(findTestObject('Object Repository/button_LANJUT'))
-
-WebUI.click(findTestObject('Object Repository/button_LANJUT'))
-
-WebUI.click(findTestObject('Object Repository/button_SELESAI'))
-
-WebUI.click(findTestObject('Object Repository/div_Hi,Sustrp_HamburgerMenu_wrapper__1mo0S'))
-
-WebUI.click(findTestObject('Object Repository/span_Marketplace'))
-
-WebUI.click(findTestObject('Object Repository/button_LANJUT (1)'))
-
-WebUI.click(findTestObject('Object Repository/path'))
-
-WebUI.click(findTestObject('Object Repository/button_SELESAI (1)'))
-
-WebUI.click(findTestObject('Object Repository/img'))
-
-WebUI.click(findTestObject('Object Repository/button_Lanjut ke Pembayaran'))
-
-WebUI.click(findTestObject('Object Repository/path (1)'))
-
-WebUI.click(findTestObject('Object Repository/button_Bayar - Rp0'))
-
-WebUI.click(findTestObject('Object Repository/button_Bayar - Rp0'))
+WebUI.click(findTestObject('Object Repository/h3_Case For iPhone 11 12 Pro Max Mini XR XS_55d269'))
 
 WebUI.closeBrowser()
 

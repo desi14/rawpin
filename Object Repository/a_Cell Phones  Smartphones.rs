@@ -6,6 +6,10 @@
    <elementGuidId>50341570-a49f-4675-9b10-0bf02502ef0b</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'https://www.ebay.com/b/Cell-Phones-Smartphones/9355/bn_320094' and (text() = 'Cell Phones &amp; Smartphones' or . = 'Cell Phones &amp; Smartphones')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//section[@id='s0-16-13_2-0-1[0]-0-0']/ul/li[3]/a</value>
       </entry>
@@ -14,7 +18,7 @@
          <value></value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

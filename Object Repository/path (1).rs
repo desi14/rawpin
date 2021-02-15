@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path (1)</name>
+   <tag></tag>
+   <elementGuidId>13977242-b000-4263-bed5-be982a558888</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M1.25 3.39193L4.66379 7.05859L7.4569 4.05859L10.25 1.05859</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>#FFFFFF</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-width</name>
+      <type>Main</type>
+      <value>1.5</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-linecap</name>
+      <type>Main</type>
+      <value>round</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;render&quot;)/div[1]/div[@class=&quot;LayoutV4_container__1XAuN&quot;]/div[@class=&quot;LayoutV4_innerWrapper__2-8Cl&quot;]/div[@class=&quot;LayoutV4_contentWrapper__29XAa&quot;]/main[@class=&quot;LayoutV4_content__2zBBy&quot;]/div[@class=&quot;styles_wrapper__2Rrrs&quot;]/div[@class=&quot;styles_innerWrapper__1Tq8h&quot;]/div[@class=&quot;styles_center__3ovOy&quot;]/div[@class=&quot;styles_spacing__kEWg2&quot;]/div[@class=&quot;Card_card__2xU6K&quot;]/div[@class=&quot;styles_header__3kSs2 text-bold&quot;]/div[@class=&quot;Clickable_clickable__27O6u&quot;]/div[@class=&quot;Checkbox_checkbox__1O02G&quot;]/svg[@class=&quot;Checkbox_checkmark__2JjKC&quot;]/path[1]</value>
+   </webElementProperties>
+</WebElementEntity>

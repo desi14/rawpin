@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Apply</name>
+   <name>button_LANJUT (1)</name>
    <tag></tag>
-   <elementGuidId>f4cb72f9-2eaa-437f-88ea-7138eb73a30e</elementGuidId>
+   <elementGuidId>e62d0376-6a19-474f-8e4f-84b1338c47f1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='c3-footerId']/div[2]/button</value>
+         <value>(//button[@type='button'])[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.x-overlay-footer__apply-btn.btn.btn--primary.btn--small</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -24,66 +24,94 @@
       <value>button</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>type</name>
       <type>Main</type>
-      <value>x-overlay-footer__apply-btn btn btn--primary  btn--small</value>
+      <value>button</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-label</name>
       <type>Main</type>
-      <value>Apply</value>
+      <value>LANJUT</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-track</name>
+      <name>data-action</name>
       <type>Main</type>
-      <value>{&quot;eventFamily&quot;:&quot;LST&quot;,&quot;eventAction&quot;:&quot;ACTN&quot;,&quot;actionKind&quot;:&quot;SUBMIT&quot;,&quot;actionKinds&quot;:[&quot;SUBMIT&quot;],&quot;operationId&quot;:&quot;2489524&quot;,&quot;flushImmediately&quot;:false,&quot;eventProperty&quot;:{&quot;moduledtl&quot;:&quot;mi%3A4118%7Ciid%3A1%7Cli%3A8171%7Cluid%3A2222%7C%7C&quot;,&quot;parentrq&quot;:&quot;8b5adc101770a64563828467ffff577e&quot;,&quot;pageci&quot;:&quot;a0bb3deb-6b85-11eb-b41b-6a1b0c159651&quot;},&quot;aspectsBefore&quot;:{&quot;_fsrp&quot;:&quot;0&quot;,&quot;_sacat&quot;:&quot;9355&quot;,&quot;rt&quot;:&quot;nc&quot;,&quot;Screen%20Size&quot;:[&quot;4%2E5%20%2D%204%2E9%20in&quot;],&quot;_udlo&quot;:&quot;50000000&quot;,&quot;_udhi&quot;:&quot;10000000&quot;,&quot;no_encode_refine_params&quot;:&quot;1&quot;}}</value>
+      <value>primary</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>LANJUT</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Apply</value>
+      <value>LANJUT</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;c3-footerId&quot;)/div[@class=&quot;x-overlay-footer__apply&quot;]/button[@class=&quot;x-overlay-footer__apply-btn btn btn--primary  btn--small&quot;]</value>
+      <value>id(&quot;react-joyride-step-0&quot;)/div[@class=&quot;__floater __floater__open&quot;]/div[@class=&quot;__floater__body&quot;]/div[@class=&quot;react-joyride__tooltip&quot;]/div[2]/button[1]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='c3-footerId']/div[2]/button</value>
+      <value>//div[@id='react-joyride-step-0']/div/div/div/div[2]/button</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asia'])[3]/following::button[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SKIP'])[1]/following::button[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Apply']/parent::*</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anda dapat menyaring pilihan mitra sesuai dengan preferensi pendanaan masing-masing.'])[1]/following::button[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='LANJUT']/parent::*</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div[2]/button</value>
+      <value>//div[2]/button</value>
    </webElementXpaths>
 </WebElementEntity>
